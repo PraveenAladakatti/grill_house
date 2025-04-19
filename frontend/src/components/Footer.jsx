@@ -5,10 +5,10 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">GRILL HOUSE</div>
+          <div className="left">DineSpot</div>
           <div className="right">
             <p></p>
-            <p>Open: :00 AM - 12:00 AM</p>
+            <p>Open: :10 AM - 12:00 AM</p>
           </div>
         </div>
         <div className="banner">
